@@ -1,0 +1,1 @@
+note to myself : compiles but needs to be debugged to work properly on ubuntu, currently segfault
